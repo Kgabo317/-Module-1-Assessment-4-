@@ -1,0 +1,32 @@
+th{
+    color: purple;
+    font-family:serif; 
+} 
+
+td{
+   
+    color:blueviolet;
+    font-family:monospace;
+}
+
+table{
+    font-family: Helvetica,sans-serif;
+    border-collapse: collapse;
+    border-width:1px;
+    border-style: solid;
+    border-color:darkslateblue;
+    width: 70%
+}
+
+td{
+    text-align: center;
+}
+
+body{
+    background-color:bisque;
+    
+}
+
+h1{
+    color:cornflowerblue
+}
